@@ -1,5 +1,4 @@
 # Romanic
-==========
 This is a simple gem written as a class demonstration that converts integers to roman numerals and roman numerals to integers.  It adds methods to the Integer and String classes that allow a user to send a 'roman' message to either of these types of objects and get an appropriate response. More details on how to use the gem can be found below.
 
 
